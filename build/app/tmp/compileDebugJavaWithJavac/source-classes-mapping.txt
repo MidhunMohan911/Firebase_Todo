@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/todo_firebase/BuildConfig.java
+ com.example.todo_firebase.BuildConfig
+io/flutter/app/FlutterMultiDexApplication.java
+ io.flutter.app.FlutterMultiDexApplication
