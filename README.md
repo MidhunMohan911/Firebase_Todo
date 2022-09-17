@@ -20,7 +20,7 @@ Simple To-do app, where you can add and manage tasks using Firebase Realtime Dat
 - Http is used for fetching the data from firebase.
 - CRUD operations included.
 - Check Box is used to complete.
-- Provider is used as a state manager.
+- Bottomnavigation bar used for Navigate from one page to another.
 
 ## Firebase
 
